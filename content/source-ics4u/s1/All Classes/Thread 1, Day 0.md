@@ -10,4 +10,7 @@ created: 2024-09-06T00:00:00.000-0400
 	
 ## Things to do before our next class
 
-*No to-do items before our next class. See you in October! 🍂*
+- [ ] Ideally, please use Xcodes to install Xcode 15.4 on your computer, as described above.
+> [!NOTE]
+>  
+> If you run into any difficulty with getting Xcode installed, do not worry. We can sort that out in our next class.
