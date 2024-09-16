@@ -1,5 +1,7 @@
 ---
 transcludeTitleSize: h2
+draft: true
+draftSectionTwo: false
 tags:
 excludeBacklinks: true
 excludeFromExplorer: true
@@ -14,10 +16,13 @@ createdForSectionTwo: 2024-09-07T00:00:00.000-0400
 	> [!IMPORTANT]
 	> 
 	> Please be sure that you have [[Xcodes#App Store Distribution|not installed Xcode via the Mac App Store]].
+3. Portfolio: First Entry
+	- Please [visit Notion](https://notion.so) and complete the **My first entry!** post, by providing responses to the questions given.
 
 ## Things to do before our next class
 
-- [ ] Ideally, please use Xcodes to install Xcode 15.4 on your computer, as described above.
+- [ ] Ideally, please use Xcodes to install Xcode 15.4 on your computer. 
 > [!NOTE]
 >  
 > If you run into any difficulty with getting Xcode installed, do not worry. We can sort that out in our next class.
+- [ ] Complete your [first portfolio entry](https://notion.so) for Grade 12 Computer Science.
