@@ -1,7 +1,9 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 tags: 
+created: 2024-09-16T00:00:00.000-0400
+createdForSectionTwo: 2024-09-17T00:00:00.000-0400
 ---
 [Conditional statements](https://www.hackingwithswift.com/read/0/8/conditional-statements) allow us to *selectively* run blocks of code when given a condition is `true`. If needed, we can [check multiple conditions](https://www.hackingwithswift.com/quick-start/beginners/how-to-check-multiple-conditions).
 
@@ -15,7 +17,9 @@ When we need to repeat a block of code as long as a condition remains true, that
 
 > [!TIP]
 > 
-> As much as is needed, take time with your partner to try out the examples provided at the links above in an Xcode Playground.
+> Take some time with your partner to try out the examples provided at the links above in an Xcode Playground.
+> 
+> This is especially recommended if it's been a while since you have done much programming.
 
 ## Exercise
 
@@ -23,7 +27,7 @@ When we need to repeat a block of code as long as a condition remains true, that
 
 As a recap of how to work with variables and express logic using code, please work with a partner using the *driver-navigator* pattern to complete this exercise on [[the-cell-sell.pdf|comparing the cost of old-fashioned cell-phone plans]].
 
-To begin, create a macOS command line project in Xcode:
+To begin, create a macOS command line project in Xcode named **CellSell**:
 
 ![[Screenshot 2024-09-16 at 6.25.57 AM.png]]
 
@@ -76,4 +80,4 @@ print("Plan A costs \(a)")
 
 The code above is incomplete and incorrect. Work with your partner to complete the code.
 
-You can test your solution [[test-plan-the-cell-sell.pdf|using this test plan]].
+You can test your solution [[the-cell-sell-test-plan.pdf|using this test plan]]. Your program can be considered complete if it passes all of the test cases provided.
