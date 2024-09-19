@@ -1,12 +1,12 @@
 ---
-draft: false
-draftSectionTwo: true
 transcludeTitleSize: h2
+draft: true
+draftSectionTwo: true
 tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-created: 2024-09-17T00:00:00.000-0400
+createdForSectionTwo: 2024-09-19T00:00:00.000-0400
 notes: Be sure to look at how to test for negative values using guard statements. Discussion should highlight repetitive nature of code, and the tedious nature of using the test plan. Use the whiteboard with a chart to help students identify what an RSA number is (has exactly four divisors). Encourage students to use functions when solving RSA numbers.
 ---
 ## Agenda
