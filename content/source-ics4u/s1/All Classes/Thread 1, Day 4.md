@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
 transcludeTitleSize: h2
 tags:
@@ -11,10 +11,11 @@ notes:
 ---
 ## Agenda
 1. Tutorial: Writing Unit Tests
-2. Concept: Algorithmic Efficiency
-3. Exercise: Automate Puzzle Testing
-4. Setup: Running Applications on a Device
+2. Exercise: Automate Puzzle Testing
+3. Concept: Algorithmic Efficiency
+	- How can we make the RSA Numbers implementation more efficient?
 
 ## Things to do before our next class
 
-- [ ] Please update your computer to macOS 14.7 and Xcode to 16.0.
+- [ ] Write about what you learned today in a portfolio entry on [Notion](https://notion.so).
+	- Be sure to include a few screenshots of your progress.
