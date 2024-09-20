@@ -11,6 +11,7 @@ notes:
 ---
 ## Agenda
 1. Tutorial: Writing Unit Tests
+	- Please [download this project](https://github.com/lcs-rgordon/RSANumbers2024/archive/77ab56bc874b69109ddf0c991059a86ed7daab0d.zip) and open it to begin.
 2. Exercise: Automate Puzzle Testing
 3. Concept: Algorithmic Efficiency
 	- How can we make the RSA Numbers implementation more efficient?
