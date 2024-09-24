@@ -1,16 +1,15 @@
 ---
-draft: false
-draftSectionTwo: true
 transcludeTitleSize: h2
+draft: true
+draftSectionTwo: false
 tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-created: 2024-09-24T01:23:31.000-0400
-notes: John Rampelt visiting.
+createdForSectionTwo: 2024-09-25T00:00:00.000-0400
 ---
 ## Agenda
-1. Lecture: The Evolution of Microcomputer Architecture
+1. Exercise: [[Logic and Unit Tests]]
 
 ## Things to do before our next class
 
