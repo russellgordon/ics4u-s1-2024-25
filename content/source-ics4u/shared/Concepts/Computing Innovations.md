@@ -1,11 +1,10 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: false
-tags: 
 created: 2024-09-28T00:00:00.000-0400
 createdForSectionTwo: 2024-09-27T00:00:00.000-0400
+tags: 
 ---
-
 From the AP Computer Science Principles curriculum, Big Idea #5 is the **Impact of Computing**.
 
 Today you will consider:
@@ -41,7 +40,7 @@ Data used includes integers for daily stand totals, minutes of exercise, and act
 
 These data are represented to the user in the form of circular rings, allowing participants to see their progress and those of competitors (blue for standing, green for exercise, red for movement). Point totals are represented using a simple display of current values, and historically across the competition using bar graphs.
 
-## Effects of Computing Innovations
+## Effects
 
 Computing innovations can be used in ways that their creators do not anticipate.
 
