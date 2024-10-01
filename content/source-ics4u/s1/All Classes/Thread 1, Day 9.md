@@ -10,9 +10,7 @@ created: 2024-09-30T01:23:31.000-0400
 notes: 
 ---
 ## Agenda
-1. Setup: [[Deploy to a Device]]
-	- Please load a copy of the [ScavengerHunt app](https://github.com/lcs-rgordon/ScavengerHunt) on to your phone.
-2. Concept: [[Source Control Within a Team]]
+1. Exercise: [[Geofencing Apps]]
 
 ## Things to do before our next class
 
