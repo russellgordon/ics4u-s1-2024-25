@@ -1,14 +1,14 @@
 ---
-draft: false
-draftSectionTwo: true
 transcludeTitleSize: h2
+draft: true
+draftSectionTwo: false
 tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-created: 2024-11-07T01:23:31.000-0400
-notes: 
+createdForSectionTwo: 2024-11-09T00:00:00.000-0400
 ---
+
 ## Agenda
 1. Concept: [[User Authentication]]
 	- As a class, we will continue to explore safe computing – how are users authenticated? How can we keep online accounts accessible to ourselves alone?
