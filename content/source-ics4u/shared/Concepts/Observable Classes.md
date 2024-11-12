@@ -396,15 +396,15 @@ That is because our model for each instance of a to-do item is a structure:
 
 ![[Screenshot 2024-01-18 at 10.41.18 AM.png]]
 
-SwiftUI handles instances of structures as *immutable* by default, for performance reasons – each instance of the `TodoItem` is created as a constant.
+SwiftUI handles instances of structures as *immutable* by default, for performance reasons.
 
-Because of this, individual *properties* of a structure instance within the `items` array cannot be modified. So we cannot change the `isCompleted` property value from `false` to `true`, for example – even though those individual stored properties have been declared as a `var` in our model.
+Because of this, individual *properties* of a structure instance within the `items` array cannot be modified. So we cannot change the `isCompleted` property value from `false` to `true`, for example – despite the fact that these stored properties are declared using the `var` keyword.
 
 SwiftUI *can* see changes in the `items` array itself that holds the list of to-do items:
 
 ![[Screenshot 2024-01-18 at 10.41.55 AM.png]]
 
-... and that is why the interface updates when we add a new item.
+... and that is why the interface updates when we add a new item to the to-do list.
 
 To fix this situation, we need to make  `TodoListItem` into a *class*, rather than having it be a structure.
 
