@@ -434,6 +434,29 @@ Be sure to commit and push your work with the message:
 
 > Can now mark items as completed or not, thanks to the Observation framework.
 
+## Changing constant instances
+
+Those of you with extreme attention to detail might be left wondering about something.
+
+We changed `TodoItem` from being a structure to being a class – great, right? That means SwiftUI will see changes to individual properties of the instance, which is good? It means the user interface will get updated when a property changes?
+
+However, when an instance of the `TodoItem` structure is created, in the `addItem` function:
+
+```swift
+// MARK: Functions
+func addItem() {
+	let newToDoItem = TodoItem(details: newItemDetails)
+	items.insert(newToDoItem, at: 0)
+	newItemDetails = ""
+}
+```
+
+... that instance is created as a constant, using the `let` keyword.
+
+So, you might be wondering – how can that be? How can we be changing stored properties of a class that has been declared as a constant?
+
+If you are curious about this, read [the following explainer by Paul Hudson](https://www.hackingwithswift.com/quick-start/beginners/how-to-work-with-variables-inside-classes), which explains how this is possible.
+
 ## Exercises
 
 That's about enough for today – you have seen the start of how the `Observation` framework is useful.
