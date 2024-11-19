@@ -1,22 +1,24 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
 transcludeTitleSize: h2
 tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-created: 2024-10-04T01:23:31.000-0400
+created: 2024-11-19T01:23:31.000-0400
 notes: 
 ---
 ## Agenda
-1. Formatting Decimals
-2. Discussion: Computing Innovation
-	- Warmup where another computing innovation is discussed and ideas about responses to these prompts are generated:
-		  - What constitutes a computing innovation?
-		- How an innovation can have both beneficial and harmful effects
-		- How an innovation’s effects can be both intended and unintended
-		- What can be done to avoid bias in the development of computing innovations
-	  
+1. Concept: [[Software Development Methodologies]]
+	- A comparison of a traditional and contemporary approaches to software development.
+1. Discussion: [[Group Software Development Initiatives]]
+	-  What application could you help to develop?
+2. Concept: [[Source Control Within a Team]]
+	- A detailed recap of how to make contributions to a group software project.
+3. Concept: [[Using SwiftData]]
+	- Learn how to use the `SwiftData` framework to easily persist data within an app.
 
 ## Things to do before our next class
+
+- [ ] Write about what you learned and made progress on today in a portfolio entry on [Notion](https://notion.so).
