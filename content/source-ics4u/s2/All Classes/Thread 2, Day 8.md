@@ -1,13 +1,12 @@
 ---
-draft: false
-draftSectionTwo: true
 transcludeTitleSize: h2
+draft: true
+draftSectionTwo: false
 tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-created: 2024-11-21T01:23:31.000-0400
-notes: 
+createdForSectionTwo: 2024-11-21T07:00:00.000-0400
 ---
 ## Agenda
 1. Task: [[Source Control Within a Team]]
