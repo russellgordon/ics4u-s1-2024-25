@@ -1,6 +1,6 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 created: 2024-11-27T07:00:00.000-0400
 createdForSectionTwo: 2024-11-28T07:00:00.000-0400
 tags:
@@ -20,4 +20,4 @@ Rename the entry to **Thread 2 Self-Assessment**, then fill in the template prov
 > 
 > For learning goals for which you have not accumulated new evidence in thread 2, you can simply copy-and-paste from your Thread 1 Self-Assessment.
 > 
-> You will certainly have lots of evidence to point to for learning goals [[Learning Goals#2|2]] and [[Learning Goals#6|6]].
+> You will certainly have lots of new evidence to point to for learning goals [[Learning Goals#2|2]] and [[Learning Goals#6|6]].
