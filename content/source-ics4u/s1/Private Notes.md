@@ -15,6 +15,39 @@ https://randombutmemorable.simplecast.com/episodes/the-passwordless-special
 
 http://jlord.us/git-it/index.html
 
+# Mod 2 Portfolio Review
+
+## Hayden
+
+91%
+
+## Melody
+
+~ 92
+
+## Dale
+
+Keep it about the same – hasn't had great issues to work on. Effort mostly there.
+
+## Yoshi
+
+97 for portfolio (factor in results on mini-test though)
+
+## Ayo
+
+About the same – need to be better at portfolio entries
+
+## Danika 
+
+Portfolio - products for group work – 90 on portfolio
+
+## Nikita
+
+99 on portfolio – lots of great entries, great contributions
+
+
+
+
 # Mod 1 Portfolio Review
 
 ## Hayden
