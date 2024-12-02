@@ -23,7 +23,7 @@ http://jlord.us/git-it/index.html
 
 ## Melody
 
-~ 92
+~ 92 Adjust as necessary to make the grade fall here
 
 ## Dale
 
@@ -33,9 +33,11 @@ Keep it about the same – hasn't had great issues to work on. Effort mostly th
 
 97 for portfolio (factor in results on mini-test though)
 
+98*0.87+8/11*100*0.13
+
 ## Ayo
 
-About the same – need to be better at portfolio entries
+About the same – need to be better at portfolio entries (90)
 
 ## Danika 
 
@@ -45,7 +47,9 @@ Portfolio - products for group work – 90 on portfolio
 
 99 on portfolio – lots of great entries, great contributions
 
+## Ansheng
 
+99*0.87+9/11*100*0.13
 
 
 # Mod 1 Portfolio Review
