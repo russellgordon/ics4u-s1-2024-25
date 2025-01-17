@@ -32,7 +32,7 @@ Thinking through and prototyping any portion of the additional functionality req
 
 Your work, together with your partner's, will be evaluated according to the following criteria:
 
-|**Criteria**|**Level 1 (Developing)**|**Level 2 (Approaching)**|**Level 3 (Proficient)**|**Level 4 (Advanced)**|
+|**Criteria**|**Level 1<br/>(Developing)**|**Level 2<br/>(Approaching)**|**Level 3<br/>(Proficient)**|**Level 4<br/>(Advanced)**|
 |---|---|---|---|---|
 |**Clarity of User Flow**|User flow is unclear or incomplete; significant gaps in describing user actions and results.|User flow is partially clear but has some gaps or inconsistencies in describing user actions and results.|User flow is mostly clear and logical; most user actions and results are described in detail.|User flow is exceptionally clear, logical, and comprehensive; all user actions and results are detailed.|
 |**Detail in Descriptions**|Descriptions of user actions and results are vague or missing.|Descriptions of user actions and results are present but lack sufficient detail to fully communicate intent.|Descriptions of user actions and results are detailed enough to convey intent for most interactions.|Descriptions of user actions and results are highly detailed and leave no ambiguity about user intent or system behavior.|
