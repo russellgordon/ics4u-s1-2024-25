@@ -10,7 +10,7 @@ created: 2025-01-16T01:23:31.000-0400
 notes: 
 ---
 ## Agenda
-1. Task: Paper Prototyping
+1. Task: [[Paper Prototyping]]
 	- Thinking through student-facing features and additional functionality for the LCS Check In app.
 
 ## Things to do before our next class
