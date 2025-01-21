@@ -12,12 +12,14 @@ notes:
 ## Agenda
 1. Concept: Staging Some Changes
 	- Sometimes only some *parts* of changes to a given file should be staged, while others should not be included in a commit.
-	- We will review a common scenario and discuss.
+	- We will review a common scenario involving the `.pbjproj` file (Xcode project file) and discuss.
 2. Discussion: Pull Request Base Branch
 	- A gentle reminder – always set up pull requests so that changes will be merged into the `development` branch.
 	> [!TIP] 
 	> 
 	> If see you see more than a handful of files that have been changed, that's a good sign that you've accidentally selected the wrong base branch. Typically a pull request will not involve changes to that many files.
+3. Task: [[Group Software Development]]
+	- Time to work on assigned issues.
 
 ## Things to do before our next class
 
