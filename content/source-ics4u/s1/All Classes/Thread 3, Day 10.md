@@ -10,7 +10,7 @@ created: 2025-01-23T01:23:31.000-0400
 notes: 
 ---
 ## Agenda
-3. Task: [[Group Software Development]]
+1. Task: [[Group Software Development]]
 	- Time to work on assigned issues.
 
 ## Things to do before our next class
