@@ -14,7 +14,10 @@ notes:
 	- A recap of how to connect to and use a database within an app.
 	- Here is the link to the exemplar code – a [gradebook application](https://github.com/lcs-apps/Gradebook). 
 	- You will receive an invitation to the database on Supabase.
-2. Task: [[Group Software Development]]
+	> [!TIP]
+	> 
+	> Here is a [[IMG_1529.jpeg|photo of the whiteboard from class today that includes the notes made]].
+1. Task: [[Group Software Development]]
 	- Time to work on assigned issues.
 
 > [!TIP]
