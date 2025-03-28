@@ -10,7 +10,8 @@ created: 2025-03-28T07:23:31.000-0400
 notes: 
 ---
 ## Agenda
-1. Activity: Building a Create Task Exemplar
+1. AP CSP: Exam Software Setup (Bluebook)
+2. Activity: Building a Create Task Exemplar
 	- We will [[Spelling.mp4|build an app]] that meets requirements for the AP CSP Create Task.
 		- The app's audience is elementary school students.
 		- It's beneficial effect, or purpose, is to help young children to spell and to accurately identify food items.
