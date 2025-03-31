@@ -17,7 +17,7 @@ notes:
 		- It's beneficial effect, or purpose, is to help young children to spell and to accurately identify food items.
 		- [Fork and clone this repository](https://github.com/lcs-rgordon/Spelling) to get started with developing the app.
 	- Compare the completed app to the [requirements given for this year's Create Task](https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf).
-	- Begin generating responses to [last year's prompts](https://russellgordon.ca/lcs/2023-24/ics4u/AP_Create_Task_2022-23_-_Submission_Requirements.pdf#page=3).
+	- Begin generating responses to [the writing prompts from two years ago](https://russellgordon.ca/lcs/2023-24/ics4u/AP_Create_Task_2022-23_-_Submission_Requirements.pdf#page=3).
 
 ## Things to do before our next class
 
