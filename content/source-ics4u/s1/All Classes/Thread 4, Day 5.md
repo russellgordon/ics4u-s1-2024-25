@@ -12,6 +12,9 @@ notes:
 ## Agenda
 1. AP CSP: [[Create Task]]
 	- Begin formally working on your Create Task in today's class.
+	  > [!TIP]
+	  > 
+	  > Having trouble coming with ideas? Here is [a conversation Mr. Gordon had with ChatGPT](https://chatgpt.com/share/67ec2fb4-caf0-800b-a054-27d50a6755d0), where he took the role of a student, and asked for help coming up with an app to write for the Create Task.
 
 ## Things to do before our next class
 
