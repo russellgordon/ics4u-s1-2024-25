@@ -6,13 +6,12 @@ tags:
 excludeBacklinks: true
 excludeFromExplorer: true
 enableToc: false
-created: 2025-04-07T07:23:31.000-0400
+created: 2025-04-08T07:23:31.000-0400
 notes: 
 ---
 ## Agenda
 1. AP CSP: [[Create Task]]
-	- We will first log in to the [Digital Portfolio website](https://digitalportfolio.collegeboard.org/) so that you are familiar with how to submit your work.
-	- Then continue working on your Create Task in today's class.
+	- Continue working on your Create Task in today's class.
 	> [!IMPORTANT]
 	> 
 	> Make your [full-program code PDF](https://www.youtube.com/watch?v=szNtDddK0T0&t=0s) *before* you take screenshots and write your written responses. 
