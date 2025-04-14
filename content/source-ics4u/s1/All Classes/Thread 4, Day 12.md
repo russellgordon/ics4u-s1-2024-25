@@ -14,6 +14,12 @@ notes:
 	- This is the final working period for the Create Task.
 	- Finish your written responses today.
 	- Then submit your full program code, video, and code screenshots to the AP CSP Digital Portfolio.
+2. AP CSP: [[AP Exam Prep|Exam Prep]]
+	- If you are finished your Create Task, that is, you have:
+		- [ ] completed your written responses
+		- [ ] uploaded all materials to the [Digital Portfolio](https://digitalportfolio.collegeboard.org/) site
+	- ... then please use the materials [[AP Exam Prep|provided here]] to prepare further for the exam.
+	- Mr. Gordon will work in small groups with students, as desired, to go through these topics.
 
 > [!TIP]
 > 
