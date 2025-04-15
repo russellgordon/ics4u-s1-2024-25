@@ -22,4 +22,4 @@ notes:
 - [ ] Prepare for the AP CSP exam by:
 	- [ ] reviewing the [[AP Exam Prep|supplementary lessons]] provided 
 	- [ ] using the [5 Steps to a 5 review book](https://www.amazon.ca/Steps-Computer-Science-Principles-Student/dp/1265287562) to see a compact summary of key topics and try further practice questions
-	- [ ] optionally complete the mini-quizzes Mr. Gordon has assigned through the AP Classroom portal
+	- [ ] optionally complete the mini-quizzes Mr. Gordon has assigned through the [AP Classroom](https://apclassroom.collegeboard.org) portal
