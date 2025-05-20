@@ -5,7 +5,7 @@ excludeBacklinks: true
 created: 2025-04-15T07:00:00.000-0400
 ---
 # Most Recent Class
-![[Thread 4, Day 13]]
+![[Thread 5, Day 1]]
 ![[Grove Time]]
 ![[SIC Drop-In Sessions]]
 ![[Key Links]]
