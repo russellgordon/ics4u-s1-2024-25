@@ -18,7 +18,8 @@ notes:
 			> [!TIP]
 			> 
 			> Interview slides must be completed by 10 PM on Sunday evening – that is when Mr. Gordon will make a copy of your slide deck – you will present from that slide deck on Monday morning.
-			- Schedule for Monday morning's presentations will be determined at the end of today's class.
+			- Here is the schedule for Monday morning's interviews – this was randomly determined in class today:
+			  ![[Screenshot 2025-05-24 at 10.50.15 AM.png]]
 	- At some point, once the story for your group is complete, on member of your group must [submit the final version of your group's directed graph](https://docs.google.com/forms/d/e/1FAIpQLSelfroCoQFdRElQ7Y14sYzgSbSNXL6HrzKLG9VbZz25ungTsg/viewform?usp=dialog)
 
 ## Things to do before our next class
